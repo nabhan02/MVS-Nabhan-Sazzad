@@ -1,3 +1,5 @@
+#Author: Nabhan Sazzad
+#Copyright 2021, Nabhan Sazzad, All Rights Reserved
 # -*- coding: utf-8 -*-
 """MVS.ipynb
 
